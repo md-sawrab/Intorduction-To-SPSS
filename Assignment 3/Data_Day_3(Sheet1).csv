@@ -1,0 +1,41 @@
+ID,Gender,CGPA,Satisfaction,Teaching_Quality,Course_Content,Communication,Environment,Overall_Satisfaction
+1,Male,3.1,Satisfied,4,4,3,4,4
+2,Female,3.65,Highly Satisfied,5,5,5,4,5
+3,Male,2.95,Neutral,3,3,3,3,3
+4,Female,3.8,Highly Satisfied,5,4,5,5,5
+5,Male,3.2,Satisfied,4,3,4,4,4
+6,Female,3.55,Satisfied,4,5,4,5,4
+7,Male,2.85,Dissatisfied,2,3,2,3,2
+8,Female,3.75,Highly Satisfied,5,5,4,5,5
+9,Male,3,Neutral,3,3,3,3,3
+10,Female,3.6,Satisfied,4,4,5,4,5
+11,Male,3.15,Satisfied,4,4,3,4,4
+12,Female,3.9,Highly Satisfied,5,5,5,5,5
+13,Male,2.7,Dissatisfied,2,2,3,2,2
+14,Female,3.5,Satisfied,4,4,5,4,4
+15,Male,3.05,Neutral,3,3,3,3,3
+16,Female,3.85,Highly Satisfied,5,5,4,5,5
+17,Male,3.25,Satisfied,4,3,4,4,4
+18,Female,3.7,Highly Satisfied,5,5,5,5,5
+19,Male,2.9,Dissatisfied,2,3,2,2,2
+20,Female,3.95,Highly Satisfied,5,5,5,5,5
+21,Male,3.3,Satisfied,4,4,4,4,4
+22,Female,3.72,Highly Satisfied,5,5,4,5,5
+23,Male,2.88,Neutral,3,3,3,2,3
+24,Female,3.68,Satisfied,4,5,5,4,5
+25,Male,3.12,Satisfied,4,4,3,4,4
+26,Female,3.82,Highly Satisfied,5,5,5,5,5
+27,Male,2.78,Dissatisfied,2,2,2,3,2
+28,Female,3.58,Satisfied,4,4,5,4,4
+29,Male,3.18,Neutral,3,3,4,3,3
+30,Female,3.88,Highly Satisfied,5,5,5,5,5
+31,Male,3.05,Satisfied,4,3,3,4,4
+32,Female,3.66,Highly Satisfied,5,5,4,5,5
+33,Male,2.92,Neutral,3,3,3,3,3
+34,Female,3.76,Highly Satisfied,5,5,5,4,5
+35,Male,3.22,Satisfied,4,4,4,4,4
+36,Female,3.92,Highly Satisfied,5,5,5,5,5
+37,Male,2.8,Dissatisfied,2,3,2,2,2
+38,Female,3.63,Satisfied,4,4,5,4,5
+39,Male,3.08,Neutral,3,3,3,3,3
+40,Female,3.86,Highly Satisfied,5,5,5,5,5
